@@ -42,7 +42,7 @@ Environment
 
 ### 전체 페이지
 
-<img src="https://github.com/azure0929/cgv-main-redesign/assets/128226527/c0a37891-62be-4cce-a0e3-3a2390cbab64" />
+<img src="https://github.com/azure0929/cgv-main-redesign/assets/128226527/6674e284-1db5-40ab-8020-2f9985bb7314" />
 
 <br><br>
 
