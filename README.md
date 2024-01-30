@@ -1,7 +1,5 @@
 ## 'CGV 메인페이지 리디자인'
 
----
-
 <br>
 
 ### • 배포 주소: [https://cgv-main-redesign.netlify.app/](https://cgv-main-redesign.netlify.app/)
